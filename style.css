@@ -18,7 +18,7 @@ body {
   font-size: 100%;
 }
 .box {
-  background-color: black;
+  background-color: rgb(223, 43, 43);
   height: 200px;
   width: 200px;
   display: flex;
@@ -29,7 +29,7 @@ body {
 }
 
 .btn {
-  background-color: #070707;
+  background-color: #000000;
   border: none;
   border-radius: 25%;
   width: 50%;
